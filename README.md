@@ -1,34 +1,20 @@
-Olá 👋
+# I'm Renato Campoy, Software Engineer 👨‍💻
+    
+**Experience**
 
-Me chamo **Renato Campoy**, programador sênior especializado em backend, com vários anos de experiência em desenvolvimento de software. Minha missão é de desenvolver de softwares, fornecendo soluções de alta qualidade e escaláveis, garantindo a segurança e desempenho do sistema. Além disso, busco constantemente aprimorar meus conhecimentos e compartilhar experiências com outros desenvolvedores, a fim de garantir que os projetos atendam às necessidades do cliente e da empresa de forma eficiente e eficaz.
-
-Quer saber mais sobre mim? <br /> 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/renato-campoy/)
-
-
-<br />
-<br />
-
-# &#x1f4c8; GitHub Stats
-
-<br>
-<table>
-  <tr>
-    <td>
-    <a href="https://github.com/renatocampoy">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocampoy&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-    </td>
-    <td>
-    <a href="https://github.com/renatocampoy">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=renatocampoy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-<br>
-<br>
+I'm a senior software engineer with nearly 20 years of experience developing high-performance software. I have a special passion for learning new technologies and increasing code efficiency. My motivation is to solve complex problems and create robust software solutions.
+    
+Specialized in back-end development with proficiency in multiple programming languages. Excellent communication skills and proven ability to manage teams.
+    
+---
+    
+**Technical abilities**
+    
+- **Languages:** C, C++, Java, PHP, Python, Elixir
+- **Frameworks:** Spring Boot, Struts, Hibernate, JSF, J2EE, JHipster, Apache Struts, Google Web Toolkit, Vaadin, Laravel, Symfony, CodeIgniter, Yii 2, Phalcon, Zend Framework, CakePHP, FuelPHP, Django, Flask , Pyramid, Twisted, Tornado, Zope
+- **DevOps**: Docker, Kubernetes, Jenkins, AWS, Google Cloud, Oracle Cloud, Azure, Rancher, Datadog.
+- **Databases:** MySQL, Redis, MongoDB, PostgreSQL.
+    
+---
+## Social media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/renato-campoy/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/campoytech/)
