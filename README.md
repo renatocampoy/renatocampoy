@@ -1,4 +1,4 @@
-# Renato Campoy
+# @author: Renato Campoy
 
 Sou desenvolvedor de software há quase 20 anos, fascinado por tecnologia e sempre em busca de novas formas de tornar código e processos mais eficientes. Atualmente, atuo como engenheiro de software, mas nas horas vagas gosto de criar projetos de eletrônica e IoT.
 
