@@ -2,7 +2,7 @@
 
 Sou desenvolvedor de software há quase 20 anos, fascinado por tecnologia e sempre em busca de novas formas de tornar código e processos mais eficientes. Atualmente, atuo como engenheiro de software, mas nas horas vagas gosto de criar projetos de eletrônica e IoT.
 
-Tenho formação em **Análise e Desenvolvimento de Sistemas**, também sou graduado em **Ciência de Dados** e atualmente curso o 5º período de **Engenharia Elétrica** e pós-graduação em **Engenharia Eletrônica e Robótica**. Meu foco principal é o back-end e o desenvolvimento de negócios e processos, mas gosto de explorar diferentes camadas da tecnologia, sempre motivado pelo desafio de resolver problemas complexos e entregar soluções robustas.
+Tenho formação em **Análise e Desenvolvimento de Sistemas**, também sou graduado em **Ciência de Dados** e atualmente curso o 7º período de **Engenharia Elétrica**, tenho pós-graduado em **Engenharia Eletrônica e Robótica** e **Engenharia da Computação**. Meu foco principal é o back-end e o desenvolvimento de negócios e processos, mas gosto de explorar diferentes camadas da tecnologia, sempre motivado pelo desafio de resolver problemas complexos e entregar soluções robustas.
 
 Acredito que o melhor software nasce do equilíbrio entre conhecimento técnico, colaboração e curiosidade constante. Ao longo da minha carreira, já trabalhei em equipes multidisciplinares, liderei projetos e sempre busquei compartilhar conhecimento com o time.
 
